@@ -33,3 +33,7 @@ Can be extended into a travel assistant (hotels, weather, trip planning).
 {
   "city": "Delhi"
 }
+
+## Google Cloud Run (Live Hosting)
+
+https://city-tour-guide-615185172369.europe-west1.run.app/
